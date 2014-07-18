@@ -1,6 +1,5 @@
 ChefSpec
 ========
-[![Built on Travis](https://secure.travis-ci.org/acrmp/chefspec.png?branch=master)](http://travis-ci.org/acrmp/chefspec)
 [![Gem Version](https://badge.fury.io/rb/chefspec.png)](http://badge.fury.io/rb/chefspec)
 [![Dependency Status](https://gemnasium.com/acrmp/chefspec.png)](https://gemnasium.com/acrmp/chefspec)
 [![Code Climate](https://codeclimate.com/github/acrmp/chefspec.png)](https://codeclimate.com/github/acrmp/chefspec)
